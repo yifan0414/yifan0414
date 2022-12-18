@@ -13,7 +13,7 @@
 ```
 
 - 👋 Hi, I’m eyetofreedom
-- 👀 I’m interested in Vim
+- 👀 I’m interested in vim, nvim, linux command line.
 - 🌱 I’m currently learning ysyx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
