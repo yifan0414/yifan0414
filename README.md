@@ -13,7 +13,9 @@
 ```
 
 
-👋 Hi, I’m eyetofreedom
+👋 Hi, I’m eyetofreedom 👻
+
+![](https://komarev.com/ghpvc/?username=SnakeHit)
 
 <img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnakeHit&show_icons=true">
 
