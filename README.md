@@ -12,7 +12,7 @@
      \/__/         \|__|         \/__/         \/__/                       \/__/    
 ```
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=SnakeHit&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnakeHit&show_icons=true">
 
 👋 Hi, I’m eyetofreedom
 
