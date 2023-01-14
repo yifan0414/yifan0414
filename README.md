@@ -23,11 +23,12 @@
 
 🌱 I’m currently learning
 - - [x] MIT 6.null
+- - [ ] NJU ICS
 - - [ ] CS61A
 - - [ ] CMU 15-213
 - - [ ] MIT 6.006
 - - [ ] MIT 18.06
-- - [ ] MIT 6.s081
+
 
 💞️ I highly recommend you check my notes which use the modern editor obsidian (https://github.com/SnakeHit/CSNote)
 
