@@ -24,7 +24,7 @@
 🌱 I’m currently learning
 - - [x] MIT 6.null
 - - [ ] NJU ICS
-- - [ ] CS61A
+- - [ ] CS61A&B
 - - [ ] CMU 15-213
 - - [ ] MIT 6.006
 - - [ ] MIT 18.06
