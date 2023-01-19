@@ -17,15 +17,19 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSnakeHit%2FSnakeHit&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+👀 I’m interested in Linux, Command line, NeoVim.
+
+🪄 I'm familiar with C language, and knowledge C++, Java, Python, Lua, Assembly language.
+
 <img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnakeHit&show_icons=true">
 
-👀 I’m interested in vim, nvim, linux command line.
 
 🌱 I’m currently learning
 - - [x] MIT 6.null
-- - [ ] NJU ICS
-- - [ ] CS61A&B
-- - [ ] CMU 15-213
+- - [x] NJU ICS
+- - [ ] CS61A&B (processing)
+- - [ ] CMU 15-213 (processing)
 - - [ ] MIT 6.006
 - - [ ] MIT 18.06
 
