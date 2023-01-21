@@ -20,7 +20,7 @@
 
 👀 I’m interested in Linux, Command line, NeoVim.
 
-🪄 I'm familiar with C language, and knowledge C++, Java, Python, Lua, Assembly language.
+🪄 I'm familiar with C language, and competent in C++, Java, Python, Assembly language.
 
 <img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnakeHit&show_icons=true">
 
