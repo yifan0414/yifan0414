@@ -34,7 +34,7 @@
 - - [ ] MIT 18.06
 
 
-💞️ I highly recommend you check my notes which use the modern editor obsidian (https://github.com/SnakeHit/CSNote)
+💞️ I highly recommend you to check my notes which use the modern editor obsidian (https://github.com/SnakeHit/CSNote)
 
 
 
