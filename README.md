@@ -28,10 +28,9 @@
 🌱 I’m currently learning
 - - [x] MIT 6.null
 - - [x] NJU ICS
-- - [ ] CS61A&B (processing)
-- - [ ] CMU 15-213 (processing)
-- - [ ] MIT 6.006
-- - [ ] MIT 18.06
+- - [x] CMU 15-213
+- - [ ] MIT 6.1810 (process)
+- - [ ] CS144
 
 
 💞️ I highly recommend you to check my notes which use the modern editor obsidian (https://github.com/SnakeHit/CSNote)
