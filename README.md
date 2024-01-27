@@ -22,7 +22,7 @@
 
 🪄 I'm familiar with C language, and competent in C++, Java, Python, Assembly language.
 
-<img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnakeHit&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yifan0414&show_icons=true">
 
 
 🌱 I’m currently learning
